@@ -1,0 +1,21 @@
+.whiteBtn {
+  padding: 8px;
+  margin-top: 10px;
+  background-color: white;
+  color: blue;
+  font-weight: 400;
+  width: 200px;
+  border-radius: 15px;
+  border: 1px solid blue;
+}
+
+.blueBtn {
+  padding: 8px;
+
+  background-color: rgba(0, 0, 255, 0.623);
+  color: white;
+  font-weight: 400;
+  width: 200px;
+  border-radius: 15px;
+  border: none;
+}
